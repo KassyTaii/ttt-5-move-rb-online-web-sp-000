@@ -1,5 +1,4 @@
-puts "Welcome to Tic Tac Toe!"
-puts "Where would you like to go?"
+
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
   puts "-----------"
